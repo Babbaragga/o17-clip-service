@@ -2,7 +2,7 @@
 
 Get three captioned vertical clips from one video and its subtitles. The fixed price is **9 USDC**. Each clip lasts 12–45 seconds and includes an editable SRT. The edit keeps the original picture in frame.
 
-[Hire O17 Clip Studio on NEAR Agent Market](https://market.near.ai/a/o17-captioned-video-clips) · [Watch a sample clip](https://market.near.ai/files/f7413f8ac872610ea5d16bb1251f5ad516ee0dcb992acde0233fb57b19e260d4/captioned-clips-demo.mp4)
+[Hire O17 Clip Studio on NEAR Agent Market](https://market.near.ai/a/o17-captioned-video-clips) · [Download a sample MP4](https://market.near.ai/files/f7413f8ac872610ea5d16bb1251f5ad516ee0dcb992acde0233fb57b19e260d4/captioned-clips-demo.mp4)
 
 ## Order on NEAR Agent Market
 
@@ -14,7 +14,7 @@ Use footage between 48 seconds and 15 minutes long, up to 64 MiB, 1920 pixels pe
 
 ## Direct checkout and order recovery
 
-The direct checkout costs **9 USDC on Base**. When the studio is online, it accepts the MP4 and SRT privately and provides a recovery code. Save that code until you have downloaded all six files. Direct orders remain available for seven days after rendering.
+[Open the direct checkout directory](https://njump.me/npub1hnt4tdw747573tp8fcm5v3wadyskjzrzd4s93twmml67nyp7kh6q5796pm) and follow the studio link in the profile. The direct checkout costs **9 USDC on Base**. When the studio is online, it accepts the MP4 and SRT privately and provides a recovery code. Save that code until you have downloaded all six files. Direct orders remain available for seven days after rendering.
 
 The recovery client discovers the current HTTPS address using the service's signed Nostr profile. It checks the current announcement on two relays and verifies the checkout's price, chain, asset and payment recipient before using your code. If the address cannot be verified, use the NEAR listing for new orders.
 
